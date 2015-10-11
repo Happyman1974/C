@@ -1,4 +1,4 @@
-# c scripts
+# C scripts
 test4 - check MySQL client version
 <br>test5 - CREATE DATABASE testdb
 <br>test6 - create table & insert some records
